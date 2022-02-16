@@ -14,7 +14,7 @@
         android:layout_marginTop="30dp"
         android:gravity="center_horizontal"
         android:padding="5dp"
-        android:text="Welcome to Geeks for Geeks \n Login Form"
+        android:text="Welcome to my \n Login Form"
         android:textAlignment="center"
         android:textColor="@color/purple_700"
         android:textSize="18sp" />

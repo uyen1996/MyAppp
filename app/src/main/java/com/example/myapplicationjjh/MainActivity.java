@@ -41,8 +41,9 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 // calling a method to login our user.
-               // loginUser(userName, password);
                 Toast.makeText(MainActivity.this, "Username: "+ userName , Toast.LENGTH_SHORT).show();
+
+                loginUser(userName, password);
 
             }
         });
